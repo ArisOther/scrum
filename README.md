@@ -27,4 +27,5 @@
   - Kegiatannya:
     - Daily Standup = Meeting cepat untuk laporan per tim mengenai progres, hambatan, dan proses selanjutnya dari task
     - Development = proses pengerjaan task
+    - Saat Ada hambatan, Scrum master akan menyelesaikan saat itu juga
   - ![scrum-agile3](https://user-images.githubusercontent.com/24581953/201456272-8c663560-0ef1-4a21-ac7f-0e30b4614d48.jpg)
