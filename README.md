@@ -23,4 +23,8 @@
   - Memindahkan list task tertentu ke list sprint aktif
   - ![scrum-agile2](https://user-images.githubusercontent.com/24581953/201456255-b06afb7a-d5d0-4b54-bec9-f3da12ea61c3.jpg)
 - Active sprint
+  - Active sprint = Task yang harus dikerjakan segera
+  - Kegiatannya:
+    - Daily Standup = Meeting cepat untuk laporan per tim mengenai progres, hambatan, dan proses selanjutnya dari task
+    - Development = proses pengerjaan task
   - ![scrum-agile3](https://user-images.githubusercontent.com/24581953/201456272-8c663560-0ef1-4a21-ac7f-0e30b4614d48.jpg)
